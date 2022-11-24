@@ -18,7 +18,8 @@
  ![pix1](https://user-images.githubusercontent.com/86561660/203843521-c26e7bbf-d75f-4ad6-94a0-baa67114e292.png)
  
  
-![pix2](https://user-images.githubusercontent.com/86561660/203843558-1e36902f-9a20-45ee-944b-f5e3a73433d1.png)
+![pixx2](https://user-images.githubusercontent.com/86561660/203873706-c21870a5-ad57-4df6-9f30-c914d77c354f.png)
+
 
  
 1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B
@@ -171,7 +172,7 @@ Posición D: 7.2 V
 La resistencia total entre dos puntos cualesquiera de un circuito en serie es igual a la suma de todos los resistores conectados entre esos dos puntos. 
 
 37. La resistencia total de un circuito es de 560 ohms. ¿Qué porcentaje del voltaje total aparece a través de un
-resistor de 27 Æ que forma parte de la resistencia total en serie?
+resistor de 27 ohms que forma parte de la resistencia total en serie?
 
  4.82%
  
