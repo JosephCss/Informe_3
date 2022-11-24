@@ -13,14 +13,14 @@
 
  Contrastar las relaciones que tiene el voltaje, corriente y resistencia en circuitos en paralelo y en serie .
  
- ## 2.	Marco Teorico
+ ## 3.	Marco Teorico
  
  ![pix1](https://user-images.githubusercontent.com/86561660/203843521-c26e7bbf-d75f-4ad6-94a0-baa67114e292.png)
  
  
 ![pixxx2](https://user-images.githubusercontent.com/86561660/203873754-97f01843-637e-4130-b8f4-7bb8487b28fd.png)
 
-
+## 4.	Explicación y resolución de ejercicios o problemas
 
  
 1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B
