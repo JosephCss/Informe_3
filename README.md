@@ -1,5 +1,5 @@
 # Informe_3
-
+# Nombre: Almachi Joseph NRC 10067
 
 ## 1.	Objetivo General 
 
