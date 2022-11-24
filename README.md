@@ -217,11 +217,13 @@ R3 = 22 ohms
 R1 en cortocircuito
 
 
-#Capitulo 6
+# Capitulo 6
 
 1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería
 
 ![image](https://user-images.githubusercontent.com/86561660/203175998-d56d43f0-2429-4ded-a768-37e8f895ce0c.png)
+
+![image](https://user-images.githubusercontent.com/86561660/203751198-a6cf10d7-a58e-4548-b487-7b8055414741.png)
 
 
 3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.
@@ -241,6 +243,8 @@ R1 en cortocircuito
  
  7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del
 interruptor?
+
+![image](https://user-images.githubusercontent.com/86561660/203751888-a553bfab-b3e6-4958-92bf-cbde3bd8705a.png)
 
 ![image](https://user-images.githubusercontent.com/86561660/203176315-8e8c1a86-3222-47f5-b9b6-cba003332a9d.png)
 
