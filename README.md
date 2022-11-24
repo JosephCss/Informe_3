@@ -1,5 +1,26 @@
 # Informe_3
 
+
+## 1.	Objetivo General 
+
+ Resolver ejercicios relacionados con circuitos en serie y paralelos.
+ 
+ ## 2.	Objetivos 
+ 
+ Interpretar la leyes de Kirchhoff en ejercicios.
+
+ Entender las propiedades de los circuitos en serie y paralelo.
+
+ Contrastar las relaciones que tiene el voltaje, corriente y resistencia en circuitos en paralelo y en serie .
+ 
+ ## 2.	Marco Teorico
+ 
+ ![pix1](https://user-images.githubusercontent.com/86561660/203843521-c26e7bbf-d75f-4ad6-94a0-baa67114e292.png)
+ 
+ 
+![pix2](https://user-images.githubusercontent.com/86561660/203843558-1e36902f-9a20-45ee-944b-f5e3a73433d1.png)
+
+ 
 1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B
 
 ![image](https://user-images.githubusercontent.com/86561660/203171758-c7c2843a-1d04-4894-b775-83950a2efd5d.png)
@@ -400,6 +421,16 @@ la tarjeta. Describa el procedimiento en un formato detallado paso a paso.
  53. Abra el archivo P06-53 y determine el voltaje de fuente no especificado.
 
 VS 5 3.30 V
+
+5. VIDEO https://www.youtube.com/watch?v=IlW0fznZBOM&ab_channel=JosephFrancisco
+
+6.	CONCLUSIONES
+
+El presente deber logro mejorar mi resolución de ejercicios de circuitos en paralelo y serie, ademas de ayudarme a la comprension de los conceptos de las leyes de kirchhoff , también fue de gran ayuda para ampliar mi interpretación de la ley que riguen en los circuitos agregando que me permitió desarrollar la habilidad entender la relacion del voltaje y corriente en los circuitos en paralelo y en serie.
+
+7.	BIBLIOGRAFÍA
+
+Floyd, T. L. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS. México: PEARSON EDUCACIÓN.
 
 
 
